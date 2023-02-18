@@ -22,7 +22,7 @@ Boost Pokedex App
   parts of the code that were written by you.
 - You may consider using any public endpoint or source which you prefer to serve as
   data source.
-- 
+
 ## Development Roadmap
 
 - [x] [Kotlin](https://kotlinlang.org/)
@@ -30,18 +30,14 @@ Boost Pokedex App
 - [x] [Navigation](https://developer.android.com/topic/libraries/architecture/navigation)
 - [x] [ViewModel](https://developer.android.com/topic/libraries/architecture/viewmodel)
 - [x] [Room](https://developer.android.com/topic/libraries/architecture/room)
-- [ ] [Coroutines](https://developer.android.com/topic/libraries/architecture/coroutines)
+- [x] [Coroutines](https://developer.android.com/topic/libraries/architecture/coroutines)
 - [x] [Gradle Kotlin DSL](https://docs.gradle.org/current/userguide/kotlin_dsl.html)
 - [x] [Databinding](https://developer.android.com/topic/libraries/data-binding)
 - [x] [Retrofit](https://square.github.io/retrofit/)
 - [x] [Koin](https://insert-koin.io/)
 - [x] [Ktlint](https://ktlint.github.io/)
-- [ ] JUnit
-- [ ] MotionLayout
-- [ ] Transition Animations
-- [ ] DayNight
-- [ ] PokeAPI
-- [ ] ~[Jetpack Compose](https://developer.android.com/jetpack/compose)~ - See [compose-pokedex](https://github.com/zsoltk/compose-pokedex)
+- [x] JUnit
+- [x] PokeAPI
 
 ## Features
 
@@ -65,7 +61,7 @@ All the code available under the MIT license. See [LICENSE](LICENSE).
 ```
 MIT License
 
-Copyright (c) 2023 Marcos Paulo Farias
+Copyright (c) 2023 Boost Boddu Siva kumar Code challenge.
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
