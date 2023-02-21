@@ -5,6 +5,7 @@ import androidx.appcompat.app.AppCompatActivity
 
 /**
  * Created by Siva kumar boddu on 18/02/23.
+ * this is login activity.
  */
 class MainActivity : AppCompatActivity() {
 
